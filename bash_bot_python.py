@@ -1,4 +1,5 @@
 import subprocess
 from subprocess import call
 import subprocess
-subprocess.call('ls'+ '/')
+subprocess.call(')
+test
